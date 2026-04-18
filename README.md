@@ -3,13 +3,13 @@ Data visualization project in Power BI showcasing student analytics, course dist
 
 ### 🔹 Overview Dashboard
 <Provides a high-level summary of the internship program, including total registrations, gender distribution, and geographic spread of students.>
-![Overview](images/overview-dashboard.png)
+![Overview](images/overview.png)
 
 ### 🔹 Student Details Dashboard
 <Displays detailed information about individual students, including domain selection, college, and performance.
 >
-![Students](images/student-dashboard.png)
+![Students](images/student.png)
 
 ### 🔹 Revenue Dashboard
 <Shows total revenue, payment methods, and monthly revenue trends.>
-![Revenue](images/revenue-dashboard.png)
+![Revenue](images/revenue.png)
